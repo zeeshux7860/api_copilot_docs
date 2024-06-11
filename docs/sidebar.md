@@ -7,6 +7,5 @@
 - [Default](default.md)
 - [Changelog](changelog.md)
 - **Links**
-- [![Code](assets/img/code.svg)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-- [![Github](assets/img/github.svg)Github](https://github.com/jhildenbiddle/docsify-themeable)
-- [![Twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/jhildenbiddle)
+- [![Code](assets/img/code.svg)Demo Sandbox](https://github.com/zeeshux7860/api_copilot_example.git)
+- [![Twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/api_copilot)
