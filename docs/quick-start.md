@@ -14,14 +14,14 @@ Follow these steps to quickly integrate APIs into your Flutter application using
 |---------------------|-------------------------------------------|
 | GetX                | flutter pub add http  <br> flutter pub add get  <br> flutter pub add shared_preferences |
 | Provider            | flutter pub add provider  <br> flutter pub add http  <br> flutter pub add shared_preferences |
-| Without State Management | flutter pub add http  <br> flutter pub add shared_preferences |
+| Default             | flutter pub add http  <br> flutter pub add shared_preferences |
 
 
 
 ### Importing Postman Collections
 1. Log in to API Copilot.
 2. Navigate to the "Import" section.
-3. Upload your Postman collection file.
+3. Upload your Postman collection .json file.
 4. Confirm the import to proceed.
 
 ### Generating Code
@@ -34,7 +34,8 @@ Follow these steps to quickly integrate APIs into your Flutter application using
 If you prefer to use state management in your application:
 1. Enable state management features in the settings.
 2. Choose between Provider or GetX as your state management solution.
-3. Follow the prompts to integrate state management into your code.
+3. Choose default if you are not using any statemanagement solution.
+4. Follow the prompts to integrate state management into your code.
 
 
 ---

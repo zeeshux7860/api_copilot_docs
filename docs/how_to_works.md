@@ -77,7 +77,7 @@ flutter pub add shared_preferences
 ```
 
 
-### Using Provider Without State Management
+### Using Default State Management
 
 ```bash
 flutter pub add http
