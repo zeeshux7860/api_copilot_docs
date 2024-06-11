@@ -7,5 +7,5 @@
 - [Default](default.md)
 - [Changelog](changelog.md)
 - **Links**
-- [![Code](assets/img/code.svg)Demo Sandbox](https://github.com/zeeshux7860/api_copilot_example.git)
-- [![Twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/api_copilot)
+- [![Code](assets/img/code.svg)Api-Copilot Example](https://github.com/zeeshux7860/api_copilot_example.git)
+- [![Twitter](assets/img/twitter.svg)@api_copilot](http://twitter.com/api_copilot)
